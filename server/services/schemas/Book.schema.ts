@@ -1,5 +1,5 @@
 import gql from 'graphql-tag';
-import type { ISchema } from '../ISchema'
+import type { ISchema } from '../util/ISchema'
 
 export class BookSchema implements ISchema {
   typeDefs = () => gql`

@@ -1,4 +1,4 @@
-import type { ISchema } from '../ISchema'
+import type { ISchema } from '../util/ISchema'
 import { gql } from 'graphql-tag'
 
 export class TestSchema implements ISchema {

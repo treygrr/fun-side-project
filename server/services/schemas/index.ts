@@ -1,4 +1,4 @@
-import SchemaCollector from '../SchemaCollector'
+import SchemaCollector from '../util/SchemaCollector'
 import { BookSchema } from './Book.schema'
 import { TestSchema } from './Test.schema'
 
